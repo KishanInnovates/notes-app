@@ -24,7 +24,8 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "*",
+    origin: "https://notes-app-nu-pied.vercel.app",
+    credentials: true,
   })
 );
 
