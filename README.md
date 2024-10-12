@@ -55,4 +55,4 @@ node index.js
 ```
 
 # Feedback
-Feel free to provide feedback by raising an issue on the GitHub repository or contacting me.
+Feel free to provide feedback by raising an issue on the GitHub repository.
