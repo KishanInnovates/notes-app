@@ -45,11 +45,11 @@ MONGODB_URI=<your-mongo-uri>
 ACCESS_TOKEN_SECRET=<your-secret>
 ```
 - Run the app:
-- In frontend/:
+- In frontend/ :
 ```
 npm run dev
 ```
-- In backend/:
+- In backend/ :
 ```
 node index.js
 ```
